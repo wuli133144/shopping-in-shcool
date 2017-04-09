@@ -1,0 +1,20 @@
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+build/
+WebContent/.project
+WebContent/WEB-INF/web.xml
+
+# emacs tempory files
+
+\#*
+*~
